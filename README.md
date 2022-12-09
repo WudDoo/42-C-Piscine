@@ -7,16 +7,16 @@ My graded projects from my piscine @ [42Lisboa](https://www.42lisboa.com/en/appl
 ## Table of contents
 <table align = left>
   <td>
-    1. &nbsp;&nbsp;&nbsp;<a href="#shell00">Shell00</a><br/>
-    2. &nbsp;&nbsp;&nbsp;<a href="#shell01">Shell01</a><br/>
-    3. &nbsp;&nbsp;&nbsp;<a href="#rush00">Rush00</a><br/>
-    4. &nbsp;&nbsp;&nbsp;<a href="#c00">C00</a><br/>
-    5. &nbsp;&nbsp;&nbsp;<a href="#c01">C01</a><br/>
-    6. &nbsp;&nbsp;&nbsp;<a href="#c02">C02</a><br/>
-    7. &nbsp;&nbsp;&nbsp;<a href="#c03">C03</a><br/>
-    8. &nbsp;&nbsp;&nbsp;<a href="#c04">C04</a><br/>
-    9. &nbsp;&nbsp;&nbsp;<a href="#c05">C05</a><br/>
-    10. &nbsp;<a href="#c06">C06</a>
+    &nbsp;1. &nbsp;&nbsp;&nbsp;<a href="#shell00">Shell00</a><br/>
+    &nbsp;2. &nbsp;&nbsp;&nbsp;<a href="#shell01">Shell01</a><br/>
+    &nbsp;3. &nbsp;&nbsp;&nbsp;<a href="#rush00">Rush00</a><br/>
+    &nbsp;4. &nbsp;&nbsp;&nbsp;<a href="#c00">C00</a><br/>
+    &nbsp;5. &nbsp;&nbsp;&nbsp;<a href="#c01">C01</a><br/>
+    &nbsp;6. &nbsp;&nbsp;&nbsp;<a href="#c02">C02</a><br/>
+    &nbsp;7. &nbsp;&nbsp;&nbsp;<a href="#c03">C03</a><br/>
+    &nbsp;8. &nbsp;&nbsp;&nbsp;<a href="#c04">C04</a><br/>
+    &nbsp;9. &nbsp;&nbsp;&nbsp;<a href="#c05">C05</a><br/>
+    &nbsp;10. &nbsp;<a href="#c06">C06</a>
   </td>
 </table>
 <br/>
