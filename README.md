@@ -1,5 +1,8 @@
 # 42 C-Piscine
 My graded projects from my piscine @ [42Lisboa](https://www.42lisboa.com/en/apply/).
+```
+<h1>Don't cheat, just code.</h1>
+```
 
 ## Table of contents
 <table align = left>
