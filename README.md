@@ -104,7 +104,7 @@ My graded projects from my piscine @ [42Lisboa](https://www.42lisboa.com/en/curr
     <td align="right" width="68"><b><a href="./Rush00">0%</a></b></td>
   </tr>
 </table>
-(I forgot to sumbit the functions inside a folder.)
+(Forgot to sumbit the functions inside a folder.)
 <br/>
 <br/>
 
